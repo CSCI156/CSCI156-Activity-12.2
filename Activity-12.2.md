@@ -1,6 +1,6 @@
 #### 1. l =[[1,2],[1,-1],[5,8],[-4,-2],[4,3]]
-      D. l is a list of ordered pairs. Use a for loop to create a list M which contains the largest element for each of 
-      the ordered pairs and the ordered pairs as a tuple.
+      D. l is a list of ordered pairs. Use a for loop to create a list M which contains the largest element 
+      for each of the ordered pairs and the ordered pairs as a tuple.
       M =[(2,[1,2]),(1,[1,-1]),(8,[5,8]),(-2,[-4,-2]),(4,[4,3])]
       (max is a built in function)
       S. Sort M
